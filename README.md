@@ -1,4 +1,4 @@
-# coursera-web-development-course
+# Coursera Web Development Course
 This is resturant website created using BootStrap, HTML, CSS, JS and jQuery for educational purpose.
 
 ## Live Demo
